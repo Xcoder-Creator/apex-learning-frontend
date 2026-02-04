@@ -1,0 +1,140 @@
+.main-body {
+    margin-bottom: 90px;
+}
+
+#center_box_people {
+    display: block;
+    margin-top: 105px;
+    text-align: center;
+}
+
+#teacher_section {
+    margin-bottom: 35px;
+}
+
+#top_header {
+    color: #1967d2;
+    fill: #1967d2;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 2.5rem;
+    border-bottom: 1px solid #4285f4;
+    text-align: left;
+    padding-bottom: 15px;
+    padding-left: 16px;
+}
+
+#top_header2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    color: #1967d2;
+    fill: #1967d2;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 2.5rem;
+    border-bottom: 1px solid #4285f4;
+    text-align: left;
+    padding-bottom: 15px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+#sdxx9 {
+    color: #1967d2;
+    fill: #1967d2;
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+}
+
+#sdasasdsd23s {
+    display: inline-block;
+    width: 760px;
+}
+
+#img_sect {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+#img_placeholder {
+    width: 32px;
+    height: 32px;
+}
+
+#profile_ui_comp {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+#id_name {
+    margin-top: 2px !important;
+    margin-left: 19px !important;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-left: 0.5rem;
+    max-width: 30rem;
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    color: #3c4043;
+}
+
+#classmate_list {
+    margin-top: 10px;
+    margin-bottom: 110px;
+}
+
+.classmate_list_mgxx {
+    margin-top: 80px !important;
+}
+
+#xx98sj {
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    color: #3c4043;
+    margin: 2rem 0 0.25rem 0;
+}
+
+@media only screen and (max-width: 850px){
+    #sdasasdsd23s {
+        display: block;
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    #center_box_people {
+        margin-top: 130px !important;
+    }
+}
+
+@media only screen and (max-width: 930px){
+    #center_box_people {
+        margin-top: 150px !important;
+    }
+}
+
+@media only screen and (max-width: 415px){
+    #center_box_people {
+        margin-top: 90px !important;
+    }
+
+    .classmate_list_mgxx {
+        margin-top: 50px !important;
+    }
+}

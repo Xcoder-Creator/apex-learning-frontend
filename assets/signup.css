@@ -1,0 +1,134 @@
+.signup-component {
+    width: 350px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#signup_title {
+    text-align: center;
+    font-weight: 800;
+}
+
+#wb_txt {
+    display: flex;
+    align-items: center;
+}
+
+#by6x {
+    margin-left: 12px;
+}
+
+#title_left {
+    color: #42b72a;
+}
+
+#title_middle {
+    color: #42b72a;
+}
+
+#title_right {
+    color: #1976d2;
+}
+
+#logo_container {
+    text-align: center;
+}
+
+#logo_edit {
+    width: 55px;
+    display: inline-block;
+}
+
+.signup-container-box {
+    background-color: #fff;
+    margin-top: 13px;
+    padding: 15px;
+    box-shadow: 0px 0px 10px 3px rgb(0 0 0 / 20%), 0px 2px 15px 0px rgb(0 0 0 / 14%), 0px 1px 0px 0px rgb(0 0 0 / 12%);
+    border-radius: 10px;
+    padding-top: 25px;
+    padding-bottom: 13px;
+}
+
+#signup_text {
+    font-weight: 600;
+    text-align: center;
+}
+
+#have_an_acct_text {
+    margin-bottom: 0px;
+    margin-top: 15px;
+    font-size: 0.85em;
+    text-align: center;
+}
+
+#login_link {
+    text-decoration: none;
+    margin-left: 1px;
+}
+
+.custom-loader {
+    animation: loader 1s infinite;
+    display: flex;
+}
+
+@-moz-keyframes loader {
+    from {
+    transform: rotate(0);
+    }
+    to {
+    transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes loader {
+    from {
+    transform: rotate(0);
+    }
+    to {
+    transform: rotate(360deg);
+    }
+}
+
+@-o-keyframes loader {
+    from {
+    transform: rotate(0);
+    }
+    to {
+    transform: rotate(360deg);
+    }
+}
+
+@keyframes loader {
+    from {
+    transform: rotate(0);
+    }
+    to {
+    transform: rotate(360deg);
+    }
+}
+
+#verification_code_inp {
+    width: 230px;
+    display: inline-block;
+}
+
+#prefix_txt {
+    font-weight: 600;
+}
+
+#alert_box {
+    margin-top: 30px;
+    width: 333px;
+}
+
+#resend_btn {
+    margin-top: 30px;
+}
+
+@media only screen and (max-width: 360px){
+    .signup-component {
+        width: 300px;
+    }
+}

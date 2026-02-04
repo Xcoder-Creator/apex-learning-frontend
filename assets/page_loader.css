@@ -1,0 +1,47 @@
+#component_loader {
+    width: 250px;
+    height: 219px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+#fill_up {
+    width: 150px;
+    height: 180px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+#page_load_icon {
+    width: 90px;
+}
+
+#page_load_title {
+    font-size: 1.2rem;
+    margin-top: 5px;
+    margin-bottom: 12px;
+}
+
+#title {
+    font-weight: 700;
+}
+
+#title_left {
+    color: #42b72a;
+}
+
+#title_right {
+    color: #1976d2;
+}

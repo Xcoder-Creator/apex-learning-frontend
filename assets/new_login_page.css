@@ -1,0 +1,204 @@
+.app_component {
+    height: 100%;
+}
+
+.app_data {
+    height: 100%;
+}
+
+#login_body {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+#login_xc_form {
+    padding: 150px;
+    width: 100%;
+    background: #ffffff;
+    position: relative;
+    overflow: auto;
+}
+
+#login_box_sx3 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#login_xc_bg_img {
+    padding: 150px;
+    width: 100%;
+    background: #f3f5f9;
+    position: relative;
+}
+
+#ajjs7 {
+    width: 130px;
+}
+
+#bg_jja7z {
+    text-align: center;
+    width: 240px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#sjj8sxz {
+    text-align: center;
+    font-weight: 800;
+    font-size: 1.13rem;
+    margin-top: 5px;
+}
+
+#title_left {
+    color: #42b72a;
+}
+
+#title_middle {
+    color: #42b72a;
+}
+
+#title_right {
+    color: #1976d2;
+}
+
+#para_hytxt {
+    font-size: 0.96rem;
+    margin-top: 6px;
+}
+
+#label_vvtxt {
+    font-size: 0.96rem;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+#forgot_pw_lnk {
+    text-decoration: none;
+    font-size: 0.93rem;
+    color: #1976d2 !important;
+}
+
+#frjs7 {
+    text-align: left;
+}
+
+#login_space_cxc {
+    margin-top: 23px;
+}
+
+#have_an_acct_text {
+    font-size: 0.93rem;
+    text-align: center;
+    margin-top: 25px;
+}
+
+#login_link {
+    text-decoration: none;
+    color: #1976d2 !important;
+}
+
+#kjs7x {
+    width: 60px;
+}
+
+#img_xxc4s {
+    text-align: left;
+    margin-bottom: 10px;
+    display: none;
+}
+
+#wave_hand {
+    position: relative;
+    top: 5px;
+    left: 5px;
+}
+
+@media only screen and (max-width: 950px){
+    #login_box_sx3 {
+        width: 300px;
+    }
+    
+    #login_xc_form {
+        padding: 20px;
+    }
+
+    #login_xc_bg_img {
+        padding: 20px;
+    }
+}
+
+@media only screen and (max-width: 708px){
+    #login_box_sx3 {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media only screen and (max-width: 510px){
+    #login_xc_bg_img {
+        display: none;
+    }
+
+    #img_xxc4s {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 416px){
+    #img_xxc4s {
+        text-align: center;
+    }
+
+    #login_txt {
+        text-align: center;
+    }
+
+    #para_hytxt {
+        text-align: center;
+    }
+
+    #login_data_juajjnx5 {
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (max-height: 550px){
+    #login_box_sx3 {
+        margin: 0;
+        position: absolute;
+        top: unset;
+        left: 50%;
+        transform: translate(-50%);
+    }
+
+    #bg_jja7z {
+        margin: 0;
+        position: absolute;
+        top: unset;
+        left: 50%;
+        transform: translate(-50%);
+        margin-top: 120px;
+    }
+
+    #login_body {
+        height: 550px;
+    }
+
+    #have_an_acct_text {
+        margin-bottom: 30px;
+    }
+
+    #login_xc_form {
+        padding-top: 70px
+    }
+}

@@ -1,0 +1,470 @@
+#sjs7x {
+    background-color: rgb(66, 133, 244);
+    border-color: rgb(66, 133, 244);
+    display: flex;
+    width: 38px;
+    height: 38px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+#s3kks9x {
+    display: inline-block;
+}
+
+#jjs7hsx1 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 30px;
+}
+
+#hhd_title {
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 2.5rem;
+    overflow: hidden;
+    word-wrap: break-word;
+    color: rgb(25,103,210);
+    fill: rgb(25,103,210);
+    text-align: left;
+    margin-bottom: 0.25rem;
+}
+
+#si8 {
+    margin-right: 16px;
+}
+
+#oo9p7x {
+    width: 760px;
+}
+
+#shy6ax {
+    display: flex;
+    flex-direction: column;
+}
+
+#sddx7 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    letter-spacing: .01428571em;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    color: #5f6368;
+    margin-bottom: 0.5rem;
+} 
+
+#shhs6xza {
+    letter-spacing: .01428571em;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    color: #5f6368;
+    margin: 0 0.25rem;
+}
+
+#classwork_desc_vx {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 0.5rem;
+    border-bottom-color: rgb(66,133,244);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+#points_hhs6 {
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    color: #3c4043;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+    margin-right: 1rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+}
+
+#uus7x {
+    text-align: left;
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    color: #3c4043;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+    margin-right: 1rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+}
+
+#jjmnzx43 {
+    width: 300px;
+    margin-top: 35px;
+    padding: 1.5rem;
+    box-shadow: 0 1px 2px 0 rgb(60 64 67 / 30%), 0 2px 6px 2px rgb(60 64 67 / 15%);
+    border-radius: 0.5rem;
+    margin-bottom: 35px;
+}
+
+#jn0ppx {
+    margin-top: 0.5rem;
+}
+
+#jjx_txt2 {
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    color: #3c4043;
+}
+
+#jj_txt {
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 1.375rem;
+    font-weight: 400;
+    line-height: 1.75rem;
+    color: #3c4043;
+}
+
+#jj_txt2 {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
+
+#missing_txt33 {
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    color: #d50000;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+    width: 100px;
+    text-align: right;
+}
+
+#result_padhn3 {
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    color: #3c4043;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+    width: 100px;
+    text-align: right;
+}
+
+#data_head_ppt {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#data_head_ppt2 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#comment_lnk {
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    line-height: 1.5rem;
+    margin-top: 0.25rem;
+    padding-left: 10px;
+    padding-right: 10px;
+    word-wrap: break-word;
+    color: #1a73e8;
+    -webkit-font-smoothing: antialiased;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: .25px;
+    line-height: 36px;
+    text-decoration: none;
+    text-transform: none;
+    min-width: auto;
+    outline: none;
+    position: relative;
+    -webkit-tap-highlight-color: transparent;
+    z-index: 0;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+    width: 230px;
+    text-align: left;
+}
+
+#do_work_btn {
+    width: 100%;
+}
+
+#due_date_time_hhs6 {
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    color: #3c4043;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+    margin-right: 1rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 183.23px;
+    display: block;
+}
+
+#student_comp_xvn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top-width: 1px;
+    border-top-color: #e0e0e0;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #e0e0e0;
+    border-bottom-style: solid;
+    margin-top: 30px;
+}
+
+#student_list_xv {
+    margin-bottom: 36px;
+}
+
+#js7data2 {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-right-width: 1px;
+    border-right-color: #e0e0e0;
+    border-right-style: solid;
+    width: 192.55px;
+}
+
+#profile_img_student {
+    width: 32px;
+    height: 32px;
+    margin-right: 1rem;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+#hhs79x {
+    letter-spacing: .01428571em;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    color: #5f6368;
+    overflow: hidden;
+    text-align: left;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+#uu78c {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#score_point {
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 72px;
+    line-height: 72px;
+    border-right-width: 1px;
+    border-right-color: #e0e0e0;
+    border-right-style: solid;
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.95rem;
+    font-weight: 500;
+    width: 96.72px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+}
+
+#missing_score {
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 72px;
+    line-height: 72px;
+    border-right-width: 1px;
+    border-right-color: #e0e0e0;
+    border-right-style: solid;
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: red;
+    width: 96.72px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+}
+
+#skmm8 {
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    color: #3c4043;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+    margin-right: 1rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+}
+
+#teacher_name {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+}
+
+#classwork_date_created {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+}
+
+@media only screen and (max-width: 905px){
+    #oo9p7x {
+        width: 630px;
+    }
+}
+
+@media only screen and (max-width: 753px){
+    #oo9p7x {
+        width: 570px;
+    }
+}
+
+@media only screen and (max-width: 680px){
+    #oo9p7x {
+        width: 490px;
+    }
+}
+
+@media only screen and (max-width: 590px){
+    #oo9p7x {
+        width: 400px;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    #si8 {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 428px){
+    #oo9p7x {
+        width: 350px;
+    }
+
+    #jjmnzx43 {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 381px){
+    #oo9p7x {
+        width: 320px;
+    }
+
+    #js7data2 {
+        width: 160px;
+    }
+}
+
+@media only screen and (max-width: 350px){
+    #oo9p7x {
+        width: 280px;
+    }
+
+    #js7data2 {
+        width: 115px;
+    }
+}
+
+@media only screen and (max-width: 310px){
+    #oo9p7x {
+        width: 230px;
+    }
+
+    #js7data2 {
+        width: 70px;
+    }
+}
+
+@media only screen and (max-width: 415px){
+    #hhd_title {
+        font-size: 1.75rem;
+    }
+
+    #jj_txt {
+        font-size: 1.23rem;
+    }
+
+    #classwork_desc_vx {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #skmm8 {
+        text-align: left;
+    }
+
+    #points_hhs6 {
+        text-align: left;
+    }
+
+    #due_date_time_hhs6 {
+        text-align: left;
+    }
+}

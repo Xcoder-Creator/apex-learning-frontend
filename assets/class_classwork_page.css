@@ -1,0 +1,273 @@
+.main-body {
+    margin-bottom: 110px;
+}
+
+#no_classwork_svg {
+    width: 161.59px;
+    height: 115px;
+    display: inline-block;
+}
+
+#center_box {
+    display: block;
+    margin-top: 100px;
+    text-align: center;
+}
+
+#iijd7x {
+    border-bottom: 0.0625rem solid #e0e0e0;
+    border-width: 0.125rem;
+    margin-top: 2.5rem;
+}
+
+#asdaww2232zq {
+    display: inline-block;
+    width: 760px;
+}
+
+#xccx_txt {
+    letter-spacing: .01428571em;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    color: #3c4043;
+    margin-top: 15px;
+}
+
+#qwesd23a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#m8iikl {
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    color: #3c4043;
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+#cvbt {
+    letter-spacing: .01428571em;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    color: #3c4043;
+    margin: 0 auto 2rem;
+    max-width: 21.875rem;
+    text-align: center;
+}
+
+#no_classwork_svg_space {
+    margin-top: 130px;
+}
+
+#hhs6yd {
+    margin-top: 40px;  
+}
+
+#hy77x {
+    margin-left: 12px;
+}
+
+#by6 {
+    display: flex;
+    align-items: center;
+}
+
+#first {
+    display: block;
+}
+
+#activity {
+    border-radius: 0.5rem;
+    box-shadow: 0px 2px 4px -1px rgb(0 0 0 / 20%), 0px 4px 5px 0px rgb(0 0 0 / 14%), 0px 1px 10px 0px rgb(0 0 0 / 12%);
+    margin-top: 28px;
+}
+
+#second {
+    display: none;
+}
+
+#bby3 {
+    display: flex;
+    align-items: center;
+}
+
+#gg6 {
+    width: 24px;
+    height: 24px;
+}
+
+#mmu {
+    margin-left: 10px;
+}
+
+.hhy_m8u {
+    padding: 24px;
+    background: #fff;
+    border: 0.0625rem solid #dadce0;
+    border-radius: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.kksuo8 {
+    display: flex;
+    justify-content: center;
+}
+
+#jjuzyx {
+    width: 730px;
+}
+
+.jhg7yx {
+    padding: 24px;
+    background: #fff;
+    border: 0.0625rem solid #dadce0;
+    border-radius: 0.5rem;
+    padding-bottom: 30px;
+    width: 340px;
+}
+
+#mmuya6 {
+    margin-left: 40px;
+}
+
+#g667az {
+    margin-bottom: 10px;
+    letter-spacing: .01785714em;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 0.97rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    color: #5f6368;
+}
+
+#yh6nnx {
+    margin-top: 30px;
+}
+
+#j76yg {
+    width: 100%;
+    display: flex; 
+    align-items: center; 
+    margin-top: 28px;
+}
+
+#add_opt {
+    margin-left: 9px;
+    font-size: 0.96rem;
+    font-weight: 500;
+    color: #1976d2;
+    cursor: pointer;
+    user-select: none;
+}
+
+#sy7 {
+    width: 24px;
+    height: 24.77px;
+}
+
+#fgb3 {
+    border: 1px dashed rgba(0, 0, 0, 0.54);
+    margin-top: 28px;
+}
+
+#options_list_xcx {
+    margin-top: -23px;
+}
+
+#yh6nnx {
+    border-left: 7px #4285f4 solid;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+@media only screen and (max-width: 1130px){
+    #jjuzyx {
+        width: 540px;
+    }
+}
+
+@media only screen and (max-width: 930px){
+    #jjuzyx {
+        width: 380px;
+    }
+}
+
+@media only screen and (max-width: 777px){
+    #jjuzyx {
+        width: 100%;
+    }
+
+    #mmuya6 {
+        margin-left: 0px;
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .hhy_m8u {
+        width: 100%;
+    }
+
+    .jhg7yx {
+        width: 100%;
+    }
+
+    .kksuo8 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #main-content-dialog-body {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+
+@media only screen and (max-width: 850px){
+    #asdaww2232zq {
+        display: block;
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    #center_box {
+        margin-top: 130px !important;
+    }
+}
+
+@media only screen and (max-width: 590px){
+    #first {
+        display: none;
+    }
+
+    #second {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 931px){
+    #center_box {
+        margin-top: 100px;
+    }
+}
+
+@media only screen and (max-width: 930px){
+    #center_box {
+        margin-top: 135px;
+    }
+}
+
+@media only screen and (max-width: 415px){
+    #center_box {
+        margin-top: 80px !important;
+    }
+}

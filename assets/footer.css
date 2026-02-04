@@ -1,0 +1,25 @@
+#footer_credit {
+    background: unset;
+}
+
+.footer {
+    margin-top: 20px;
+}
+
+#footer_icons {
+    text-align: center;
+}
+
+#footer_ico_lnk_first {
+    text-decoration: none;
+}
+
+#footer_ico_lnk {
+    text-decoration: none;
+    margin-left: 12px;
+}
+
+#footer_ico_hover:hover {
+    transition: 1s all;
+    color: #1976d2;
+}
