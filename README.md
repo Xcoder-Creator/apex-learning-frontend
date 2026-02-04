@@ -1,6 +1,6 @@
 # Apex Learning <img width="36" height="32" alt="logo_apex" src="https://github.com/user-attachments/assets/688f2937-fe32-422d-b275-737846106088" />
 
-This project is an e-learning platform that provides a virtual classroom to connect students and teachers together. In 2023 was when i built this project as a final year project in Babcock University. This repo is the frontend of the project. Check out the backend -> [https://github.com/Xcoder-Creator/apex-learning-backend](https://github.com/Xcoder-Creator/apex-learning-backend).
+This project is a fully functional e-learning platform that provides a virtual classroom to connect students and teachers together. In 2023 was when i built this project as a final year project in Babcock University. This repo is the frontend of the project. Check out the backend -> [https://github.com/Xcoder-Creator/apex-learning-backend](https://github.com/Xcoder-Creator/apex-learning-backend).
 
 ## How to Run
 1. Clone the repository to your local machine.
